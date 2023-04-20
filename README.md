@@ -1,3 +1,3 @@
 # TestingGit
 This is new file on Remote repository.
-New line added
+New line added - added on local
